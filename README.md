@@ -6,6 +6,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com.br/franklin.derlany)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://www.wa.me/+5582998102341)
+
 ![Franklin Github Status](https://github-readme-stats.vercel.app/api?username=Franklin-Derlany&&show_icons=true&theme=gruvbox)
 
 #### Tecnologias que estou estudando no momento:
