@@ -10,11 +10,10 @@
 ![Franklin Github Status](https://github-readme-stats.vercel.app/api?username=Franklin-Derlany&&show_icons=true&theme=gruvbox)
 
 #### Tecnologias que estou estudando no momento:
-
-<div style="display: inline block"><br/>
-  <img aling="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  <img aling="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  <img aling="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
 - <em>"A necessidade é a mãe da inovação."</em>
